@@ -3,4 +3,4 @@
 <a href="https://evandrotomas.github.io/landpage-pizzaria/#" target="_blank">https://evandrotomas.github.io/landpage-pizzaria/#</a>
 <br>
 <br>
-<img src="https://github.com/evandrotomas/calculadora-imc/blob/master/assets/calc-imc.png?raw=true"/>
+<img src="https://github.com/evandrotomas/landpage-pizzaria/blob/master/assets/landPage-Pizzaria.png?raw=true"/>
