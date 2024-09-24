@@ -1,4 +1,4 @@
-<h1>Projeto LandPage Pizzaria - IMC</h1>
+<h1>Projeto LandPage Pizzaria</h1>
 <br>
 <a href="https://evandrotomas.github.io/landpage-pizzaria/#" target="_blank">https://evandrotomas.github.io/landpage-pizzaria/#</a>
 <br>
